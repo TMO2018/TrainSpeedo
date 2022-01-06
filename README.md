@@ -1,5 +1,5 @@
 # TrainSpeedo
-The project is based on this source:
+The project is based on the source:
 https://dcc-arduino.weebly.com/scale-speedometer.html
 
 This project is a "real size" speedometer for miniature trains, cars and anything you wish to measure.
