@@ -1,0 +1,6 @@
+Set the fuses first when programming for the first time. 
+
+Fuses:
+- EXTENDED: 0xFD
+- HIGH: 0xDE
+- LOW: 0xF7 -> externer Full.swing Crystal (hier: 16MHz, wie Arduino UNO, NANO)
